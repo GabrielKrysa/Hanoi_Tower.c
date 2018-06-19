@@ -1,4 +1,4 @@
-+#ifndef _PILHA_H
+#ifndef _PILHA_H
 
 #define _PILHA_H
 #define MAX 4
