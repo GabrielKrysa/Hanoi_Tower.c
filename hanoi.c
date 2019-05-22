@@ -11,7 +11,8 @@ int main(int argc, char const *argv[])
     int jogada1, jogada0;
     int metodo;
     int x;
-
+asçldkaçsldkasçlkdaçsdkaçsdkas
+asldkalçskd~çlaskda~çlkdasçdlkas
     inipilha(&A);
     inipilha(&B);
     inipilha(&C);
